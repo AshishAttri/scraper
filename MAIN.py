@@ -66,9 +66,12 @@ def message_to_send(soup):
                 <body>
                 <center>
                 <img src='cid:image1', alt="IMD" style="width:120px;height:150px;"><br><br>
-                <font style="font-size:34px; color:#99FF0; font-weight:bold; font-family:courier; text-shadow: 2px 2px #FF6633; letter-spacing:2px;">INDIA METEOROLOGICAL DEPARTMENT</font><br>
-                <font style="font-size:21px; color:#003399; font-weight:bold; font-family:'courier';">Ministry of Earth Sciences</font><br>
-                <font style="font-size:18px; color:#330000; font-weight:bold; font-family:'courier'; ">Government of India</font>
+                <font style="font-size:34px; color:#99FF0; font-weight:bold; font-family:courier; text-shadow: 2px 2px #FF6633;
+                letter-spacing:2px;">INDIA METEOROLOGICAL DEPARTMENT</font><br>
+                <font style="font-size:21px; color:#003399; font-weight:bold; font-family:'courier';">Ministry of Earth Sciences
+                </font><br>
+                <font style="font-size:18px; color:#330000; font-weight:bold; font-family:'courier'; ">Government of India
+                </font>
                 </center>
                 </body>
                 </html>
