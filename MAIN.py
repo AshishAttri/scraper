@@ -15,7 +15,7 @@ receiver_email = "RECEIVER_EMAIL_ID"
 password = input("Type your password and press enter:")
 
 #making the request
-url = requests.get('http://www.imd.gov.in/Welcome%20To%20IMD/Welcome.php')
+url = requests.get('website-url-here')
 
 #making a beautifulsoup object   
 soup = BeautifulSoup(url.text, 'lxml')
